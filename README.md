@@ -34,15 +34,15 @@ OS detection and service version detection
 Security auditing and vulnerability assessments
 
 ### Network
-<div></div>
+<div>N/A</div>
 
 ### Endpoint
-<div></div>
+<div>N/A</div>
 
 ### SIEM
-<div></div>
+<div>N/A</div>
 
 ## Certifications
-<div></div>
+<div><img src="https://img.shields.io/badge/Google%20Security%2B-4285F4?style=for-the-badge&logo=google&logoColor=white" /></div>
 
 ## Projects
