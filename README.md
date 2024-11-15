@@ -46,3 +46,4 @@ Security auditing and vulnerability assessments
 <div><img src="https://img.shields.io/badge/Google%20Security%2B-4285F4?style=for-the-badge&logo=google&logoColor=white" /></div>
 
 ## Projects
+<div>N/A</div>
